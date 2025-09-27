@@ -15,11 +15,10 @@ This initiative aims to provide **actionable insights** for strategic decision-m
 ---
 
 ## Prerequisites
-- Microsoft **Excel**  
+- **Microsoft Excel**  
 - **SQL**  
 - **Power BI**  
-- Problem-Solving Skills  
-
+- Problem-Solving Skills
 ---
 
 ## Project Overview
