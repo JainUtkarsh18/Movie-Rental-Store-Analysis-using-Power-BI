@@ -13,6 +13,10 @@ Through **data analysis and visualization**, we examine:
 This initiative aims to provide **actionable insights** for strategic decision-making and operational optimization, empowering rental store owners to maximize **customer satisfaction** and **profitability**.  
 
 ---
+## Table of Contents
+- [Prerequisites](#Prerequisites)      
+- [Project Overview](#ProjectOverview)
+- [Dataset Description](#DatasetDescription)
 
 ## Prerequisites
 - **Microsoft Excel**  
