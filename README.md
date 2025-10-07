@@ -6,7 +6,7 @@ The **Movie Rental Analytics Capstone Project** presents a comprehensive explora
 
 Through **data analysis and visualization**, we examine:  
 - Customer behavior  
-- Film inventory dynamics  
+- Film inventory dynamics   
 - Staff productivity  
 - Revenue patterns  
 
