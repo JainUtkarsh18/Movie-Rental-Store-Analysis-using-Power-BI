@@ -1,6 +1,6 @@
 # Movie Rental Store Analytics using Power BI
 
-## Data-Driven DVD Rental Store Optimization: SQL, Excel, and Power BI Analysis 
+## Data-Driven DVD Rental Store Optimization using SQL, Excel and Power BI Analysis 
 
 The **Movie Rental Analytics Capstone Project** presents a comprehensive exploration of the **Sakila Dataset**, offering invaluable insights into the DVD rental store domain.  
 
