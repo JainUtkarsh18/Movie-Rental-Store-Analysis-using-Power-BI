@@ -5,7 +5,7 @@
 The **Movie Rental Analytics Capstone Project** presents a comprehensive exploration of the **Sakila Dataset**, offering invaluable insights into the DVD rental store domain.  
 
 Through **data analysis and visualization**, we examine:  
-- Customer behavior  
+- Customer behavior   
 - Film inventory dynamics   
 - Staff productivity  
 - Revenue patterns  
